@@ -15,6 +15,7 @@ The project includes ESLint configuration, PostCSS, and a clean development setu
 ## Project Structure
 
 todolist/
+.
 │── index.html
 │── package.json
 │── vite.config.js
@@ -43,12 +44,16 @@ git clone <your-repo-url>
 cd todolist
 
 2. Install dependencies:
+```
 npm install
+```
 
 ## Running the Project
 
 Start the Vite development server:
+```
 npm run dev
+```
 
 
 Open in browser: http://localhost:5173
@@ -56,10 +61,14 @@ Open in browser: http://localhost:5173
 ## Production Build
 
 Build the production version:
+```
 npm run build
+```
 
 Preview the output:
+```
 npm run preview
+```
 
 ## TailwindCSS Setup
 
