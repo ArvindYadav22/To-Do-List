@@ -13,7 +13,7 @@ The project includes ESLint configuration, PostCSS, and a clean development setu
 - Simple and clean project structure
 
 ## Project Structure
-
+```
 todolist/
 ├── index.html
 ├── package.json
@@ -24,7 +24,7 @@ todolist/
 └── src/
 ├── main.jsx
 └── App.jsx
-
+```
 
 
 ## Tech Stack
@@ -90,8 +90,9 @@ ESLint includes:
 - React Refresh plugin for Vite  
 
 Run linting:
-
+```
 npm run lint
+```
 
 ## Assets
 
